@@ -12,7 +12,7 @@ The dashboard provides an interface for observing simulated client behavior, tra
 - Educational visualization of ransomware lifecycle stages
 - Virtual machine testing support
 
-# **Research and Code Adaptation in Ransomwere **
+#  **Research and Code Adaptation in Ransomwere **
 Parts of this project were inspired by publicly available cybersecurity research repositories and educational proof-of-concept implementations. The source code was studied, modified, and adapted to fit the requirements of the academic project and the simulated laboratory environment.
 Several communication components and API structures were redesigned to support controlled interaction between the dashboard and test clients within isolated virtual machines. The modifications focused on improving system integration, monitoring functionality, and experimental malware-analysis workflows for research purposes.
 The project also included defensive testing and behavior analysis experiments to better understand how modern endpoint protection systems detect suspicious activities. All experiments were conducted strictly in authorized and isolated environments for cybersecurity education and academic learning.
